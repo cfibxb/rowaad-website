@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "team": "Team",
+    "contact": "Contact"
+  },
+  "hero": {
+    "ctaWork": "View Our Work",
+    "ctaWhatsApp": "Chat on WhatsApp"
+  },
+  "pricing": {
+    "heading": "Our Packages",
+    "choose": "Choose This Package",
+    "popular": "Most Popular"
+  },
+  "portfolio": {
+    "heading": "Selected Work",
+    "empty": "More projects coming soon"
+  },
+  "team": {
+    "heading": "Meet the Team",
+    "empty": "We're building our team"
+  },
+  "footer": {
+    "tagline": "Digital Pioneers",
+    "admin": "Admin"
+  },
+  "whatsapp": {
+    "defaultMessage": "Hi! I'd like to learn more about your web development packages."
+  }
+}

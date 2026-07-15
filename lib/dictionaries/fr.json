@@ -1,0 +1,33 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "team": "Équipe",
+    "contact": "Contact"
+  },
+  "hero": {
+    "ctaWork": "Voir Nos Projets",
+    "ctaWhatsApp": "Discuter sur WhatsApp"
+  },
+  "pricing": {
+    "heading": "Nos Forfaits",
+    "choose": "Choisir ce Forfait",
+    "popular": "Le Plus Populaire"
+  },
+  "portfolio": {
+    "heading": "Nos Réalisations",
+    "empty": "Plus de projets bientôt disponibles"
+  },
+  "team": {
+    "heading": "Notre Équipe",
+    "empty": "Nous construisons notre équipe"
+  },
+  "footer": {
+    "tagline": "Pionniers du Numérique",
+    "admin": "Admin"
+  },
+  "whatsapp": {
+    "defaultMessage": "Bonjour ! J'aimerais en savoir plus sur vos forfaits de développement web."
+  }
+}
